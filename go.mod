@@ -7,6 +7,7 @@ require (
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/jmoiron/sqlx v1.2.0 // indirect
+	github.com/nsqio/go-nsq v1.0.8 // indirect
 	github.com/olivere/elastic v6.2.30+incompatible // indirect
 	github.com/olivere/elastic/v7 v7.0.14 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da // indirect
