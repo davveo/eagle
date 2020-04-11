@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/Shopify/sarama v1.26.1 // indirect
+	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/jmoiron/sqlx v1.2.0 // indirect
 	github.com/olivere/elastic v6.2.30+incompatible // indirect
