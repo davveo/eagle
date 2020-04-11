@@ -8,5 +8,6 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/jmoiron/sqlx v1.2.0 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da // indirect
+	github.com/streadway/amqp v0.0.0-20200108173154-1c71cc93ed71
 	go.etcd.io/etcd v3.4.4+incompatible // indirect
 )
